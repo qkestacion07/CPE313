@@ -1,6 +1,6 @@
 # CPE313 - Advanced Machine Learning and Deep Learning.
 
-Welcome to my repository! 👋 I am ![Kenneth Estacion](https://drive.google.com/file/d/1WgxkO-GILzraSVyvecNqtY6NbzdLDkDf/preview), a data science student that is curious about machine learning. 🚀
+Welcome to my repository! 👋 I am Kenneth Estacion, a data science student that is curious about machine learning. 🚀
 
 I am a 20-year-old Computer Engineering Student 🖥️ from Technological Institute of the Philippines - Quezon City 🏫.
 
